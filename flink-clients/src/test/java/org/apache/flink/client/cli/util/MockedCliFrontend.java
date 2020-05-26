@@ -27,7 +27,7 @@ import java.util.Collections;
 /**
  * Utility class for mocking the {@link ClusterClient} within a {@link CliFrontend}.
  *
- * <p>The mocking behavior can be defined in the constructor of the sub-class.
+ * <p>The mockng behavior can be defined in the constructor of the sub-class.
  */
 public class MockedCliFrontend extends CliFrontend {
 
